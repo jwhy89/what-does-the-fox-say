@@ -1,0 +1,74 @@
+body {
+    text-align: center;
+    background-color: darkslateblue;
+}
+
+div {
+    margin: 1rem;
+}
+
+h1 {
+    margin: 2rem;
+    font-family: 'Henny Penny', cursive;
+}
+
+button {
+    height: 200px;
+    width: 200px;
+    margin: 0 1rem;
+}
+
+#dog {
+    background: url(images/dog.jpg);
+    background-size: cover;
+}
+
+#cat {
+    background: url(images/cat.jpg);
+    background-size: cover;
+}
+
+#bird {
+    background: url(images/bird.jpg);
+    background-size: cover;
+}
+
+#mouse {
+    background: url(images/mouse.jpg);
+    background-size: cover;
+}
+
+#cow {
+    background: url(images/cow.jpg);
+    background-size: cover;
+}
+
+#frog {
+    background: url(images/frog.jpeg);
+    background-size: cover;
+}
+
+#elephant {
+    background: url(images/elephant.jpg);
+    background-size: cover;
+}
+
+#duck {
+    background: url(images/duck.jpg);
+    background-size: cover;
+}
+
+#fish {
+    background: url(images/fish.jpg);
+    background-size: cover;
+}
+
+#seal {
+    background: url(images/seal.jpg);
+    background-size: cover;
+}
+
+#fox {
+    background: url(images/fox.jpg);
+    background-size: cover;
+}
