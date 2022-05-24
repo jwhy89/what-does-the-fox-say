@@ -1,7 +1,7 @@
 //concept: arrays, conditionals, loops, functions
 
-header(audio.crossOrigin = 'anonymous');
-header(Access-Control-Allow-Origin: *);
+header("audio.crossOrigin = 'anonymous'");
+header("Access-Control-Allow-Origin: *");
 
 // audio NOT working on github (development).
 // dev tools said: Failed to load resource: the server responded with a status of 404 ()
