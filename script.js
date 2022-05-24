@@ -1,16 +1,4 @@
 //concept: arrays, conditionals, loops, functions
-var playPromise = document.querySelector('audio').play();
-
-// In browsers that don’t yet support this functionality,
-// playPromise won’t be defined.
-if (playPromise !== undefined) {
-    playPromise.then(function () {
-        // Automatic playback started!
-    }).catch(function (error) {
-        // Automatic playback failed.
-        // Show a UI element to let the user manually start playback.
-    });
-}
 
 // audio NOT working on github (development).
 // dev tools said: Failed to load resource: the server responded with a status of 404 ()
