@@ -1,5 +1,5 @@
 //concept: arrays, conditionals, loops, functions
-var playPromise = document.querySelector('video').play();
+var playPromise = document.querySelector('audio').play();
 
 // In browsers that don’t yet support this functionality,
 // playPromise won’t be defined.
