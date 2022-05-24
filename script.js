@@ -1,5 +1,8 @@
 //concept: arrays, conditionals, loops, functions
 
+audio.crossOrigin = 'anonymous';
+Access-Control-Allow-Origin: *
+
 // audio NOT working on github (development).
 // dev tools said: Failed to load resource: the server responded with a status of 404 ()
 // yang2674.github.io/:1 Uncaught (in promise) DOMException: Failed to load because no supported source was found.
