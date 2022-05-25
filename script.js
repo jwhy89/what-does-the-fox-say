@@ -13,7 +13,7 @@ var animalButtons = document.querySelectorAll("button"); //10
 for (let i = 0; i < animalButtons.length; i++) {
     document.querySelectorAll(".btn")[i].addEventListener("click", function playSound() {
         //play specific animal sound based on the button id
-        let audio = new Audio(`sounds/${this.id}.mp3`);
+        let audio = new Audio(`../sounds/${this.id}.mp3`);
         audio.play();
     });
 }
